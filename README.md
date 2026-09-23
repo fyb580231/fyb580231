@@ -1,16 +1,13 @@
-## Hi there 👋
+ 你好，我是方禹博 👋
+27届软件工程本科，求职软件测试/测试开发工程师方向。
 
-<!--
-**fyb580231/fyb580231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 技术栈
+- 测试：Python / pytest / 接口自动化 / UI自动化(Playwright) / JMeter性能测试
+- 开发：FastAPI / Vue3 / SQLAlchemy
+- 工具：Git / Linux / Docker / GitHub Actions / Allure
 
-Here are some ideas to get you started:
+ 精选项目
+- [auto-test-platform](https://github.com/fyb580231/auto-test-platform) — AI增强的接口+UI自动化测试平台（FastAPI + Vue3 + pytest + DeepSeek）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 联系我
+📧 2822312790@qq.com
